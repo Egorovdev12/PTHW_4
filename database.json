@@ -1,0 +1,9 @@
+{"products":
+ [{"productName":"Доширак с говядиной","productId":99887312,"cost":42.5},
+  {"productName":"Сыр \"Российский\"","productId":190716497,"cost":130.0},
+  {"productName":"Картофель 1кг","productId":7569240,"cost":29.99},
+  {"productName":"Батон белый нарезной","productId":891274,"cost":24.99},
+  {"productName":"Йогурт \"Белая Жижица\"","productId":78875411,"cost":34.99},
+  {"productName":"Квас","productId":43190001,"cost":70.49},
+  {"productName":"Оверпрайснутые макароны","productId":2227489,"cost":253.59},
+  {"productName":"Хозяйственное мыло","productId":1825802,"cost":18.99}]}
