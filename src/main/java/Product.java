@@ -1,3 +1,5 @@
+// S - данный класс описывает сущность
+// O - от данного класса можно создать наследника, который будет описывать конкретный тип продукта, например, BakeryProduct или PersonalHygieneProduct
 public class Product {
 
     private String productName;
